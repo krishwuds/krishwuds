@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishwuds
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on different project
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me krishwuds87@gmail.com
 
 <!---
