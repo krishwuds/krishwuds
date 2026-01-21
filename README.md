@@ -14,7 +14,7 @@
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future%20of%20AI&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MS%20AI%20Candidate%20@%20University%20of%20Bridgeport&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future%20of%20AI&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" />
 
 </div>
 
