@@ -30,7 +30,7 @@
         <li>🎓 <b>Machine Learning Engineer</b> </li>
         <li>🔬 Researching <b>Agentic AI</b> ("Auto-Data Scientist")</li>
         <li>☁️ Transforming <b>DevOps</b> skills into <b>MLOps</b> mastery</li>
-        <li>📍 Based in <b>Bridgeport, CT</b></li>
+        <li>📍 Based in <b>United States</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
